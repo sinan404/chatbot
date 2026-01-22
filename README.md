@@ -31,3 +31,6 @@ This chatbot uses a **Generative AI approach** by integrating a Large Language M
 - Conversation memory
 - Secure API key handling
 - Simple and clean user interface
+
+<img width="1868" height="889" alt="image" src="https://github.com/user-attachments/assets/c1337e32-a50b-4bc5-9d9f-8399b5b625f5" />
+
